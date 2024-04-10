@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CC31B-TeamKimat", "CC31B-TeamKimat.csproj", "{684074B8-386D-43E4-B8EC-1A4136C793BC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Engine", "..\Engine\Engine.csproj", "{21CF7997-4107-405A-B731-3A52B3DBD001}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{684074B8-386D-43E4-B8EC-1A4136C793BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{684074B8-386D-43E4-B8EC-1A4136C793BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{684074B8-386D-43E4-B8EC-1A4136C793BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21CF7997-4107-405A-B731-3A52B3DBD001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21CF7997-4107-405A-B731-3A52B3DBD001}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21CF7997-4107-405A-B731-3A52B3DBD001}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21CF7997-4107-405A-B731-3A52B3DBD001}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
